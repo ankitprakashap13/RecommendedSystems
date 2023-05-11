@@ -1,0 +1,6 @@
+# zip file
+*.zip
+*.pdf
+
+# other files/folders
+Data+Set
